@@ -1,0 +1,3 @@
+[submodule "aolwx-devops-capstone-template"]
+	path = aolwx-devops-capstone-template
+	url = git@github.com:ibm-developer-skills-network/aolwx-devops-capstone-template.git
